@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/04947279-3eed-4803-8d55-c01601ab2f70/resourceGroups/AppServiceQS-NJHW-rg/providers/Microsoft.Web/sites/DataOrLore-NodeJS-HelloWorld",
+    "appService.deploySubpath": "."
+}
